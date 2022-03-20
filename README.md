@@ -2,8 +2,10 @@
 
 # at client folder:
 
-`npm run serve`
+`npm install && npm run serve`
 
 # at server folder: 
 
-`npm run start`
+make sure that you have mongodb already installed in your OS
+
+`npm install && npm run start`
