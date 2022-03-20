@@ -28,3 +28,5 @@ nav {
   }
 }
 </style>
+
+<style src="../node_modules/normalize.css/normalize.css"></style>
